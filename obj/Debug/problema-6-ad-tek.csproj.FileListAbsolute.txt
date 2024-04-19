@@ -1,0 +1,7 @@
+C:\18 ADTek\examenes\problema-6-ad-tek\bin\Debug\problema-6-ad-tek.exe.config
+C:\18 ADTek\examenes\problema-6-ad-tek\bin\Debug\problema-6-ad-tek.exe
+C:\18 ADTek\examenes\problema-6-ad-tek\bin\Debug\problema-6-ad-tek.pdb
+C:\18 ADTek\examenes\problema-6-ad-tek\obj\Debug\problema-6-ad-tek.csproj.AssemblyReference.cache
+C:\18 ADTek\examenes\problema-6-ad-tek\obj\Debug\problema-6-ad-tek.csproj.CoreCompileInputs.cache
+C:\18 ADTek\examenes\problema-6-ad-tek\obj\Debug\problema-6-ad-tek.exe
+C:\18 ADTek\examenes\problema-6-ad-tek\obj\Debug\problema-6-ad-tek.pdb
